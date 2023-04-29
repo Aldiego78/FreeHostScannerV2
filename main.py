@@ -19,7 +19,7 @@ log_status = "/storage/emulated/0/FreeHostScan/log_status.txt"
 methods_list = ["GET","POST","HEAD","TRACE","MOVE","PATCH"]
 
 #search_status_code
-status_codes = [200, 302, 400]
+status_codes = [200, 302, 400, 500]
 
 #Putuskan_paksa_pada
 timeouts = 3
